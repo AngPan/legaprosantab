@@ -44,6 +44,17 @@
     height: 100px;
 }
 
+.social-logo {
+    height: 70px;
+}
+
+.separator {
+    border-top: var(--oro) 2px solid;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .footer {
     border-top: var(--oro) 0.2rem solid;
     width: 100vw;
